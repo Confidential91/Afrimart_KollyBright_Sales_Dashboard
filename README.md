@@ -42,7 +42,7 @@ Excel dashboarding, data summarization, data cleaning, and business insight skil
 ---
 ## Files in this Repository
 - [Sales Dataset](AfriMart_KollyBright_Sales_DashBoard)
-- [Company Logo](AfriMart_KollyBright_Sales_Logo)
+- [Company Logo](AfriMart_KollyBright_Sales_Logo.png)
 - [Dashboard Screenshot](AfriMart-KollyBright-Screenshot-2026-10-01.png)
 - README.md
 ---
