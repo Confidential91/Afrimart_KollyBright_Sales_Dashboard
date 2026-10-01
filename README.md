@@ -32,8 +32,7 @@ Excel dashboarding, data summarization, data cleaning, and business insight skil
 
   ---
   ## Dashboard Preview
-  ![AfriMart KollyBright Sales Dashboard](<img width="798" height="641" alt="AfriMart-KollyBright-Screenshot-2026-10-01 " src="https://github.com/user-attachments/assets/0d1673c8-dd4c-424d-b8e6-5d02a2127075" />
-)
+  ![AfriMart KollyBright Sales Dashboard](AfriMart-KollyBright-Screenshot-2026-10-01.png)
 
 ## Key Insights
 - Egypt contributed the highest share of total revenue.
@@ -44,7 +43,7 @@ Excel dashboarding, data summarization, data cleaning, and business insight skil
 ## Files in this Repository
 - [Sales Dataset](AfriMart_KollyBright_Sales_DashBoard)
 - [Company Logo](AfriMart_KollyBright_Sales_Logo)
-- [Dashboard Screenshot](AfriMart-KollyBright-Screenshot-2026-10-01)
+- [Dashboard Screenshot](AfriMart-KollyBright-Screenshot-2026-10-01.png)
 - README.md
 ---
 ## Conclusion
