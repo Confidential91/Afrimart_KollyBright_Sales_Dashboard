@@ -16,23 +16,23 @@ Excel dashboarding, data summarization, data cleaning, and business insight skil
 - How does revenue Change oveer time?
 - Which products perform best in different region?
 ---
-##Key KPIs
+## Key KPIs
 ---
--Total Revenue
--Total Profit
--Total Units Sold
--Profit Margin
+- Total Revenue
+- Total Profit
+- Total Units Sold
+- Profit Margin
 ---
-###Tools Used
+### Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
--  Excel Slicers
--   dashboard Design Techniques
+- Excel Slicers
+- Dashboard Design Techniques
 
   ---
-  ##Dashboard Preview
-  ![AfriMart KollyBright Sales Dashboard](<img width="798" height="641" alt="AfriMart-KollyBright-Screenshot 2026-10-01 " src="https://github.com/user-attachments/assets/0d1673c8-dd4c-424d-b8e6-5d02a2127075" />
+  ## Dashboard Preview
+  ![AfriMart KollyBright Sales Dashboard](<img width="798" height="641" alt="AfriMart-KollyBright-Screenshot-2026-10-01 " src="https://github.com/user-attachments/assets/0d1673c8-dd4c-424d-b8e6-5d02a2127075" />
 )
 
 ## Key Insights
@@ -43,11 +43,11 @@ Excel dashboarding, data summarization, data cleaning, and business insight skil
 ---
 ## Files in this Repository
 - [Sales Dataset](AfriMart_KollyBright_Sales_DashBoard)
-- [Company Logo](<img width="1536" height="1024" alt="AfriMart_KollyBright_Sales_Logo" src="https://github.com/user-attachments/assets/37e3fb7f-0c1a-4dba-b461-8ef8c80e802c" />)
-- [Dashboard Screenshot](AfriMart-KollyBright-Screenshot 2026-10-01)
+- [Company Logo](AfriMart_KollyBright_Sales_Logo)
+- [Dashboard Screenshot](AfriMart-KollyBright-Screenshot-2026-10-01)
 - README.md
 ---
-##Conclusion
+## Conclusion
 
 The AfriMart KollyBright dashboard shows strong overall sales performance, generating approximately ₦8.67 billion in revenue and ₦1.68 billion in profit from 785,930 units sold. 
 Rice appears to be the major contributor to revenue and profit, while performance varies across countries. 
